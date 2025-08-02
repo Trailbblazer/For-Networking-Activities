@@ -12,10 +12,10 @@ These Case Studies are networking activities that use real hardware for real net
 > 🔗 [Switching Networks and Routing – Fall 2024](https://docs.google.com/document/d/1bHZXYhCisgR_582hpoognGVv8KwOTn-hE3WiPBjPeVA/edit?usp=sharing)  
 
 ### Contents
-- Topology diagram (.pkt & PNG)  
-- Switch & router config files (`configs/Switching-Routing/`)  
-- Step-by-step write-up in the Doc  
-- Verification screenshots (`screenshots/Switching-Routing/`)
+- Lab instructions & diagrams (`CCNA-Case-Studies/docs/CCNA2 Case Study Fall 2024 v1.00.docx`)  
+- Switch & router config files
+- Device configurations 
+- Test plans & results 
 
 ----------------------------------------------------------------
 
@@ -26,13 +26,11 @@ These Case Studies are networking activities that use real hardware for real net
 > 🔗 [Secure Enterprise Networks – Spring 2025](https://docs.google.com/document/d/1yhrQNWP6MfbL7RiWy8R7yGPnC1cIiIS76osT0OYY1qo/edit?usp=sharing)  
 
 ### Contents
-- Lab instructions & diagrams (`docs/Secure-Enterprise/`)  
-- Device configurations (`configs/Secure-Enterprise/`)  
+- Lab instructions & diagrams (`CCNA-Case-Studies/docs/CCNA3 Case Study Spring 2025_V1.07.docx`)  
+- Device configurations 
 - Test plans & results  
 - Firewall & ACL rule lists
 
 ----------------------------------------------------------------
 
-## 📂 Instruction Files (Will put later)
-
-Updated August 2025
+**Updated August 2025**
