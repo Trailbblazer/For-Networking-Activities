@@ -1,6 +1,6 @@
 # 📚 Networking Case Studies
 
-This folder contains my two major CCNA-level case study reports, hosted as Google Docs.
+This folder contains my two major CCNA-level case study reports, hosted as Google Docs. <br>
 These Case Studies are networking activities that use real hardware for real networking configurations.
 
 ----------------------------------------------------------------
