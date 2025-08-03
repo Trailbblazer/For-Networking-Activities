@@ -1,4 +1,4 @@
-# 📚 Networking Case Studies
+# 📚 CCNA Networking Case Studies
 
 This folder contains my two major CCNA-level case study reports, hosted as Google Docs. <br>
 These activities were performed on real Cisco hardware at Metropolia UAS’s Karamalmi campus.
