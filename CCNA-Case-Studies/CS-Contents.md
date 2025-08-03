@@ -14,12 +14,12 @@ These activities were performed on real Cisco hardware at Metropolia UAS’s Kar
 > 🔗 [Switching Networks and Routing – Fall 2024](https://docs.google.com/document/d/1bHZXYhCisgR_582hpoognGVv8KwOTn-hE3WiPBjPeVA/edit?usp=sharing)  
 
 ### Contents
-• Lab instructions and diagrams: `CCNA-Case-Studies/docs/CCNA2 Case Study Fall 2024 v1.00.docx` <br>
-• Network topology overview and Packet Tracer diagram. <br>
-• Step-by-step VLAN and inter-VLAN routing commands. <br>
-• Switch and router configuration snippets. <br>
-• Verification procedures (ping/traceroute, 'show' outputs). <br>
-• Troubleshooting notes and performance observations.
+- Lab instructions and diagrams: `CCNA-Case-Studies/docs/CCNA2 Case Study Fall 2024 v1.00.docx` <br>
+- Network topology overview and Packet Tracer diagram. <br>
+- Step-by-step VLAN and inter-VLAN routing commands. <br>
+- Switch and router configuration snippets. <br>
+- Verification procedures (ping/traceroute, 'show' outputs). <br>
+- Troubleshooting notes and performance observations.
 
 ----------------------------------------------------------------
 
@@ -33,12 +33,12 @@ These activities were performed on real Cisco hardware at Metropolia UAS’s Kar
 
 ### Contents
 - Lab instructions and diagrams: `CCNA-Case-Studies/docs/CCNA3 Case Study Spring 2025_V1.07.docx` <br>
-• Detailed topology and physical-to-logical mapping. <br>
-• PVST+ and EtherChannel setup steps. <br>
-• OSPF area configuration and neighbor verification. <br>
-• VLAN-DHCP integration commands. <br>
-• ACL and basic firewall rule examples. <br>
-• Test scenarios and result summaries. <br>
+- Detailed topology and physical-to-logical mapping. <br>
+- PVST+ and EtherChannel setup steps. <br>
+- OSPF area configuration and neighbor verification. <br>
+- VLAN-DHCP integration commands. <br>
+- ACL and basic firewall rule examples. <br>
+- Test scenarios and result summaries. <br>
 
 ----------------------------------------------------------------
 
