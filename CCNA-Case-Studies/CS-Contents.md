@@ -3,7 +3,9 @@
 This folder contains my two major CCNA-level case study reports, hosted as Google Docs. <br>
 These activities were performed on real Cisco hardware at Metropolia UAS’s Karamalmi campus.
 
+
 ----------------------------------------------------------------
+
 
 ## 1. Switching Networks and Routing (Fall 2024) - CCNA2
 
@@ -21,7 +23,9 @@ These activities were performed on real Cisco hardware at Metropolia UAS’s Kar
 - Verification procedures (ping/traceroute, 'show' outputs). <br>
 - Troubleshooting notes and performance observations.
 
+
 ----------------------------------------------------------------
+
 
 ## 2. Secure Enterprise Networks (Spring 2025) - CCNA3
 
@@ -39,6 +43,7 @@ These activities were performed on real Cisco hardware at Metropolia UAS’s Kar
 - VLAN-DHCP integration commands. <br>
 - ACL and basic firewall rule examples. <br>
 - Test scenarios and result summaries. <br>
+
 
 ----------------------------------------------------------------
 
