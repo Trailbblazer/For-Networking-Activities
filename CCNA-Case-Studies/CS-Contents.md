@@ -7,7 +7,7 @@ These activities were performed on real Cisco hardware at Metropolia UAS’s Kar
 ----------------------------------------------------------------
 
 
-## 1. Switching Networks and Routing (Fall 2024) - CCNA2
+## 1. Switching Networks and Routing - CCNA2
 
  **Introduction:**  
 > Configure VLANs for students/staff/management and link to the lab network (IP range: 10.95.30.0–39.255)
@@ -27,7 +27,7 @@ These activities were performed on real Cisco hardware at Metropolia UAS’s Kar
 ----------------------------------------------------------------
 
 
-## 2. Secure Enterprise Networks (Spring 2025) - CCNA3
+## 2. Secure Enterprise Networks - CCNA3
 
  **Introduction:**  
 > Configure PVST+, EtherChannel, OSPF, VLAN-DHCP, ACLs & basic firewall (IP range: 10.95.30.0–39.255). 
@@ -47,4 +47,4 @@ These activities were performed on real Cisco hardware at Metropolia UAS’s Kar
 
 ----------------------------------------------------------------
 
-**Updated August 2025**
+*Updated August 2025*
