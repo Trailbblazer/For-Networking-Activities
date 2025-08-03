@@ -9,7 +9,7 @@ Included are detailed step-by-step instructions, topology diagrams, host/VM conf
 > Configure and manage VMware vSphere in Metropolia’s NETLAB+ environment. Tasks include creating virtual networks, managing datastores, deploying VMs, configuring vSphere HA/FT, and testing VM connectivity and resilience.
 
 **Information and Documentation (PDF):**  
-> 🔗 [vSphere ICM 8 Case Study Information and Instructions](https://github.com/Trailbblazer/For-Networking-Activities/blob/main/VMWare-Caase-Study/docs/vSphere_ICM8_CaseStudy.pdf)
+> 🔗 [vSphere ICM 8 Case Study Information and Instructions](https://github.com/Trailbblazer/For-Networking-Activities/blob/main/VMWare-Caase-Study/docs/vSphere_ICM8_CaseStudy.pdf) <br>
 > 🔗 [VMware ICM v8 Documentation](https://github.com/Trailbblazer/For-Networking-Activities/blob/main/VMWare-Caase-Study/docs/Kamonnun%20Silarat%20-%20VMware%20ICM%20v8%20Case%20Study%20Documentation.pdf)
 
 ### **Contents**
